@@ -1,0 +1,21 @@
+{
+  "emakefun.base.binary|block": "二进制",
+  "emakefun.base.decimal|block": "十进制",
+  "emakefun.base.hexadecimal|block": "十六进制",
+  "emakefun.base.octal|block": "八进制",
+  "emakefun.blinkRate.blinkOff|block": "关闭闪烁",
+  "emakefun.blinkRate.halfHz|block": "0.5 Hz",
+  "emakefun.blinkRate.oneHz|block": "1 Hz",
+  "emakefun.blinkRate.twoHz|block": "2 Hz",
+  "emakefun.createVk16k33|block": "创建 vk16k33 并设置 i2c 地址为 $i2c_address",
+  "emakefun.vk16k33.ShowError|block": "$this 显示错误信息",
+  "emakefun.vk16k33.clear|block": "$this 清除显示",
+  "emakefun.vk16k33.setBlinkRate|block": "$this 设置闪烁频率为 $rate",
+  "emakefun.vk16k33.setBrightness|block": "$this 设置亮度为 $brightness",
+  "emakefun.vk16k33.showColon|block": "$this 显示冒号 $show",
+  "emakefun.vk16k33.showDigitNumber|block": "$this 显示第 $index 位数字 $number 带有小数点 $dot",
+  "emakefun.vk16k33.showNumber|block": "$this 显示数字 $number 进制 $Base 带有 $fractional_part_digits 位小数",
+  "emakefun|block": "Emakefun",
+  "{id:category}Emakefun": "Emakefun",
+  "{id:subcategory}vk16k33": "vk16k33"
+}

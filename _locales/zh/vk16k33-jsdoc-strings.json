@@ -1,0 +1,22 @@
+{
+  "emakefun.base": "基本选项。",
+  "emakefun.blinkRate": "vk16k33 LED矩阵显示屏的驱动。\n\n闪烁速率选项。",
+  "emakefun.createVk16k33": "创建一个新的vk16k33驱动实例。\n\n@return 新的驱动实例",
+  "emakefun.createVk16k33|param|i2c_address": "可选的I2C地址，默认为0x70",
+  "emakefun.vk16k33.ShowError": "显示错误消息。",
+  "emakefun.vk16k33.clear": "清除显示。",
+  "emakefun.vk16k33.setBlinkRate": "设置闪烁速率。",
+  "emakefun.vk16k33.setBlinkRate|param|rate": "闪烁速率，例如：blinkRate.twoHz",
+  "emakefun.vk16k33.setBrightness": "设置亮度。",
+  "emakefun.vk16k33.setBrightness|param|brightness": "亮度，例如：14",
+  "emakefun.vk16k33.showColon": "显示冒号。",
+  "emakefun.vk16k33.showColon|param|show": "设置为true以显示冒号，false以隐藏它",
+  "emakefun.vk16k33.showDigitNumber": "显示数字。",
+  "emakefun.vk16k33.showDigitNumber|param|dot": "设置为true以显示小数点，false以隐藏它",
+  "emakefun.vk16k33.showDigitNumber|param|index": "数字的索引，例如：0",
+  "emakefun.vk16k33.showDigitNumber|param|number": "要显示的数字，例如：10",
+  "emakefun.vk16k33.showNumber": "显示数字。",
+  "emakefun.vk16k33.showNumber|param|Base": "数字的基数，例如：base.decimal",
+  "emakefun.vk16k33.showNumber|param|fractional_part_digits": "要显示的小数部分的位数，例如：2",
+  "emakefun.vk16k33.showNumber|param|number": "要显示的数字，例如：100"
+}
